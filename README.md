@@ -18,7 +18,6 @@ Para cualquier duda o aclaración puedes levantar un issue en el presente reposi
 - Física | Manuel de Jesús Vacio G
 - Química | Natasha Carime Villaseñor H
 - Laboratorio de Química | Patricia González V
-- 
 
 
 **NOTA:** *Todos los profesores en cursiva tienen su propio repositorio, dar click sobre la materia a consultar* 
